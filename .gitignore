@@ -170,6 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Model files
-*.safetensors
 09_Finetuning_Embeddings/finetuned_arctic_ft/model.safetensors
